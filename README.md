@@ -1,6 +1,6 @@
 # Projet : The Gossip Project, les premières views
 
-# Nizar M'rad
+# Nizar M'rad et Timour Spiridonov
 
 ## Description du projet
 
